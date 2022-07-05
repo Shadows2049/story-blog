@@ -1,6 +1,7 @@
 # story-blog
 
 > Awesome blog
+> Personal Use Only
 
 ## Build Setup
 
