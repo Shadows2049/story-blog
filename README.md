@@ -33,3 +33,5 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ![index](static/index.png)
 
 ![single-page](static/single-blog.png)
+
+For personal use only
